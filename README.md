@@ -140,7 +140,7 @@ Easily download all employee records in an `.xlsx` spreadsheet with one click fr
 
 **Agnik Mondal**
 💼 *Aspiring Full-Stack Developer*
-📫 [LinkedIn](https://linkedin.com/in/agnik-mondal) • [GitHub](https://github.com/agnikmondal)
+📫 [LinkedIn](https://www.linkedin.com/in/agnik-mondal-11a37828a/) • [GitHub](https://github.com/agnik2003)
 
 ---
 
