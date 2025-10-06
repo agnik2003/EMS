@@ -10,6 +10,7 @@ A **Full-Stack CRUD Application** for managing employees, built with **Spring Bo
 Manage employee data effortlessly — perform CRUD operations, search with autocomplete, and export employee lists to Excel, all through a clean and responsive UI.
 
 ---
+<img width="1919" height="868" alt="Screenshot 2025-10-07 003523" src="https://github.com/user-attachments/assets/0ff3351a-4635-4dc8-9e05-3dd3ba8ad829" />
 
 ## 🚀 Features
 
