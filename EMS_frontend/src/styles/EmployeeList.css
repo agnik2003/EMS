@@ -1,0 +1,53 @@
+.employee-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 30px;
+}
+
+.employee-table th, .employee-table td {
+  text-align: left;
+  padding: 10px 15px;
+  border-bottom: 1px solid #ddd;
+}
+
+.employee-table th {
+  background-color: #2c3e50;
+  color: white;
+}
+
+.employee-table tbody tr:hover {
+  background-color: #f3f6f9;
+}
+
+.actions {
+  width: 150px;
+  text-align: center;
+}
+
+.btn {
+  padding: 6px 12px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  margin: 0 4px;
+  font-size: 14px;
+  transition: background-color 0.3s;
+}
+
+.btn.edit {
+  background-color: #3498db;
+  color: white;
+}
+
+.btn.edit:hover {
+  background-color: #2980b9;
+}
+
+.btn.delete {
+  background-color: #e74c3c;
+  color: white;
+}
+
+.btn.delete:hover {
+  background-color: #c0392b;
+}
