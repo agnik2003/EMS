@@ -153,9 +153,3 @@ Feel free to use, modify, and share it.
 
 ⭐ *If you found this project useful, don’t forget to give it a star on GitHub!*
 
-```
-
----
-
-Would you like me to make a **dark-themed GitHub banner** (with your project name + tagline) that you can place at the top of this README for a premium look?
-```
